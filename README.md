@@ -10,7 +10,7 @@ Hi, my name is Jack, and welcome to my repo for the base installation I use on a
 2.  Clone this repo into the folder ~/Dropbox/Development/vhosts/local.clientdomain.com
 3.  Setup a database and database user on the server and on the localhost
 4.  Edit the config
-  1.  Rename local-config.sample.php to local-config.php
+  1.  Rename local-config-sample.php to local-config.php
   2.  Set the database settings in local-config.php
   3.  Set the database settings in config.php
   4.  Goto [WordPress Salt Generator](https://api.wordpress.org/secret-key/1.1/salt/)

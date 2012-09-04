@@ -6,3 +6,6 @@ wp-content/debug.log
 
 # ignore local-config.php
 local-config.php
+
+# ignore ZIP files
+*.zip
